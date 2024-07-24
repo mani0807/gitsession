@@ -53,7 +53,7 @@
         position: fixed;
         top: 10%;
         height: 100%;
-        padding: 20px;
+        padding: 200px;
     }
 
 
